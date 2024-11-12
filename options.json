@@ -1,1 +1,139 @@
-[]
+[ {
+  "patchName" : "GmsCore support",
+  "options" : [ {
+    "key" : "GmsCoreVendorGroupId",
+    "value" : "app.revanced"
+  }, {
+    "key" : "CheckGmsCore",
+    "value" : true
+  }, {
+    "key" : "DisableGmsServiceBroker",
+    "value" : false
+  }, {
+    "key" : "PackageNameYouTube",
+    "value" : "okkidwidrive.youtube"
+  }, {
+    "key" : "PackageNameYouTubeMusic",
+    "value" : "okkidwidrive.youtube.music"
+  } ]
+}, {
+  "patchName" : "Custom branding name for YouTube Music",
+  "options" : [ {
+    "key" : "AppNameNotification",
+    "value" : "YTM RVX"
+  }, {
+    "key" : "AppNameLauncher",
+    "value" : "YTM RVX"
+  } ]
+}, {
+  "patchName" : "Settings for YouTube",
+  "options" : [ {
+    "key" : "InsertPosition",
+    "value" : "About"
+  }, {
+    "key" : "RVXSettingsMenuName",
+    "value" : "ReVanced Extended"
+  } ]
+}, {
+  "patchName" : "Overlay buttons",
+  "options" : [ {
+    "key" : "IconType",
+    "value" : "rounded"
+  }, {
+    "key" : "BottomMargin",
+    "value" : "5.0dip"
+  }, {
+    "key" : "WiderButtonsSpace",
+    "value" : false
+  }, {
+    "key" : "ChangeTopButtons",
+    "value" : false
+  } ]
+}, {
+  "patchName" : "Seekbar components",
+  "options" : [ {
+    "key" : "CairoStartColor",
+    "value" : "#ffff2791"
+  }, {
+    "key" : "CairoEndColor",
+    "value" : "#ffff0033"
+  } ]
+}, {
+  "patchName" : "SponsorBlock",
+  "options" : [ {
+    "key" : "OutlineIcon",
+    "value" : true
+  }, {
+    "key" : "NewSegmentAlignment",
+    "value" : "right"
+  } ]
+}, {
+  "patchName" : "Force snackbar theme",
+  "options" : [ {
+    "key" : "CornerRadius",
+    "value" : "8.0dip"
+  }, {
+    "key" : "BackgroundColor",
+    "value" : "?ytChipBackground"
+  }, {
+    "key" : "StrokeColor",
+    "value" : "none"
+  } ]
+}, {
+  "patchName" : "Custom Shorts action buttons",
+  "options" : [ {
+    "key" : "IconType",
+    "value" : "round"
+  } ]
+}, {
+  "patchName" : "Translations for YouTube",
+  "options" : [ {
+    "key" : "CustomTranslation",
+    "value" : ""
+  }, {
+    "key" : "SelectedTranslations",
+    "value" : "ar, bg-rBG, de-rDE, el-rGR, es-rES, fr-rFR, hu-rHU, it-rIT, ja-rJP, ko-rKR, pl-rPL, pt-rBR, ru-rRU, tr-rTR, uk-rUA, vi-rVN, zh-rCN, zh-rTW"
+  }, {
+    "key" : "SelectedStringResources",
+    "value" : "af, am, ar, ar-rXB, as, az, b+es+419, b+sr+Latn, be, bg, bn, bs, ca, cs, da, de, el, en-rAU, en-rCA, en-rGB, en-rIN, en-rXA, en-rXC, es, es-rUS, et, eu, fa, fi, fr, fr-rCA, gl, gu, hi, hr, hu, hy, id, in, is, it, iw, ja, ka, kk, km, kn, ko, ky, lo, lt, lv, mk, ml, mn, mr, ms, my, nb, ne, nl, no, or, pa, pl, pt, pt-rBR, pt-rPT, ro, ru, si, sk, sl, sq, sr, sv, sw, ta, te, th, tl, tr, uk, ur, uz, vi, zh, zh-rCN, zh-rHK, zh-rTW, zu"
+  } ]
+}, {
+  "patchName" : "Force player buttons background",
+  "options" : [ {
+    "key" : "BackgroundColor",
+    "value" : "@android:color/transparent"
+  } ]
+}, {
+    "patchName" : "Custom branding name for YouTube",
+    "options" : [ {
+      "key" : "AppName",
+      "value" : "YT RVX"
+    } ]
+  }, {
+  "patchName" : "Custom double tap length",
+  "options" : [ {
+    "key" : "DoubleTapLengthArrays",
+    "value" : "3, 5, 10, 15, 20, 30, 60, 120, 180"
+  } ]
+}, {
+  "patchName" : "Custom header for YouTube",
+  "options" : [ {
+    "key" : "CustomHeader",
+    "value" : "Custom_Branding_Icon"
+  } ]
+}, {
+  "patchName" : "Visual preferences icons for YouTube",
+  "options" : [ {
+    "key" : "ExtendedIcon",
+    "value" : "Extension"
+  } ]
+}, {
+  "patchName" : "Theme",
+  "options" : [ {
+    "key" : "DarkThemeBackgroundColor",
+    "value" : "@android:color/black"
+  }, {
+    "key" : "LightThemeBackgroundColor",
+    "value" : "@android:color/white"
+  } ]
+} ]
