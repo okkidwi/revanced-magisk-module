@@ -2,7 +2,7 @@ enable-magisk-update = true
 parallel-jobs = 1
 remove-rv-integrations-checks = true
 
-[Original-Icon-YT-RVX]
+[YouTube-Extended]
 app-name = "YouTube"
 enabled = true
 version = "19.32.36"
@@ -18,7 +18,7 @@ excluded-patches = "'Custom branding icon for YouTube' 'Custom branding name for
 included-patches = "'MaterialYou' 'Hide Shorts dimming'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
-[(Original Icon) YTM RVX]
+[Music-Extended]
 app-name = "Music"
 enabled = false
 version = "7.27.52"
@@ -33,7 +33,7 @@ arch = "both"
 excluded-patches = "'Custom branding icon for YouTube' 'Custom branding name for YouTube'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 
-[(Original Icon) Piko ReVanced]
+[Piko-ReVanced]
 enabled = false
 version = "10.65.2-release.0"
 patches-source = "crimera/piko"
