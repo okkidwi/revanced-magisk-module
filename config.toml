@@ -2,7 +2,7 @@ enable-magisk-update = true
 parallel-jobs = 1
 remove-rv-integrations-checks = true
 
-[(Original Icon) YT RVX]
+[Original-Icon-YT-RVX]
 app-name = "YouTube"
 enabled = true
 version = "19.32.36"
