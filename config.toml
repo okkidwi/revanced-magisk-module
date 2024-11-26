@@ -5,7 +5,7 @@ remove-rv-integrations-checks = true
 [YouTube-Extended]
 app-name = "YouTube"
 enabled = true
-version = "19.32.36"
+version = "19.47.36"
 patches-source = "anddea/revanced-patches"
 patches-version = "dev"
 integrations-source = "anddea/revanced-integrations"
