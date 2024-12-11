@@ -4,7 +4,7 @@ remove-rv-integrations-checks = true
 
 [YouTube-Extended]
 app-name = "YouTube"
-enabled = true
+enabled = false
 version = "19.47.36"
 patches-source = "anddea/revanced-patches"
 patches-version = "dev"
@@ -40,8 +40,9 @@ patches-source = "crimera/piko"
 patches-version = "dev"
 integrations-source = "crimera/revanced-integrations"
 integrations-version = "dev"
-cli-source = "revanced/revanced-cli"
+cli-source = "revanced/revanced-cli/releases/tag/v4.6.0"
 arch = "both"
 build-mode = "apk"
 dpi = "120-640dpi"
+excluded-patches = "'Enable app icons'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
