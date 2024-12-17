@@ -10,7 +10,7 @@ parallel-jobs = 1
 [YouTube-Extended]
 app-name = "YouTube"
 enabled = true
-version = "19.34.42"
+version = "19.38.41"
 cli-source = "inotia00/revanced-cli"
 cli-version = "dev"
 patches-source = "anddea/revanced-patches"
@@ -19,7 +19,7 @@ integrations-source = "anddea/revanced-integrations"
 integrations-version = "dev"
 rv-brand = "ReVanced Extended"
 build-mode = "module"
-# arch = "both"
+arch = "both"
 excluded-patches = "'Custom branding icon for YouTube' 'Custom branding name for YouTube'"
 included-patches = "'MaterialYou' 'Hide Shorts dimming'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
